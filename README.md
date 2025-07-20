@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rozeappletree&show_icons=true&count_private=true&include_all_commits=true)
+<img width="4335" height="7892" alt="image" src="https://github.com/user-attachments/assets/f7204a51-32fa-47a5-a51a-b9fde87d8a6e" />
